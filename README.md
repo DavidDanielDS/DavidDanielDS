@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![Spot](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1By4zrDI9PcuUaPVlE7ZmU?si=WWJXnLS4QF6nyahYACj7LA&nd=1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDanielDS&layout=compact)](https://github.com/DavidDanielDS/github-readme-stats)
+
+
 <!--
 **DavidDanielDS/DavidDanielDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
